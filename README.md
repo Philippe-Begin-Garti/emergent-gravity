@@ -23,9 +23,10 @@ This repository explores a personal, intuitive extension of the Kastner–Schlat
 The theory was visualized and articulated in both scientific and layperson language to help spread the idea freely, in the spirit of open science and universal benefit.
 
 ## Project Structure
-- `index.html`: The core web page summarizing the theory
 - `diagram.png`: A conceptual academic diagram illustrating the entropic chain to gravity
 - `README.md`: This document
+- `Concept with formulas - FIXED`: A conceptual paper illustrating the entropic chain to gravity with formulas
+- `emergent_gravity_explained_simply.md`: The concept explained simply, with imagery so non physicists such as myself can understand.
 
 ## Mission
 This project is **open source and free for all**. Our goal is to:
